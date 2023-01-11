@@ -1,6 +1,5 @@
 # CSL
-We will add complete codes of CSL in the future.
-
+We will add complete and brief codes of CSL in the future.
 # Installation
 Install dependencies. We use python 3.7 and pytorch >= 1.7.0
 
