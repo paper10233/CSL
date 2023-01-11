@@ -45,11 +45,16 @@ MOT20
 ```
 Then, you can change the seq_root and label_root in src/gen_labels_X.py and run it, where x is dataset version.
 
-# Training
+# Training and Tracking
+pretrained models: comming soon.
+
 train on MOT15
+```sh experiments/mot15_dla34.sh```
 
 train on MOT17
 ```sh experiments/mot17_dla34.sh```
-train on MOT20
 
-# Tracking
+train on MOT20
+```sh experiments/mot20_dla34.sh```
+
+
