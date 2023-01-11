@@ -1,0 +1,19 @@
+{
+    "root":"/media/ubuntu/e1c57dab-f3ee-4ae3-839f-38a0448c56df/ms1/FairMOT-master/dataset",
+    "train":
+    {
+        "mot17":"./data/mot17.train"
+    },
+    "test_emb":
+    {
+        "mot17":"./data/mot17.train"
+    },
+    "test":
+    {
+        "mot17":"./data/mot17.train"
+    },
+    "val":
+    {
+        "mot17":"./data/mot17.val"
+    }
+}

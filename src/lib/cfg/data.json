@@ -1,0 +1,20 @@
+{
+    "root":"/media/ubuntu/e1c57dab-f3ee-4ae3-839f-38a0448c56df/ms1/FairMOT-master/dataset",
+    "train":
+    {
+        "mot17":"./data/mot17.train",
+        "caltech":"./data/caltech.all",
+        "citypersons":"./data/citypersons.train",
+        "cuhksysu":"./data/cuhksysu.train",
+        "prw":"./data/prw.train",
+        "eth":"./data/eth.train"
+    },
+    "test_emb":
+    {
+        "mot17":"./data/mot17.train"
+    },
+    "test":
+    {
+        "mot17":"./data/mot17.train"
+    }
+}
